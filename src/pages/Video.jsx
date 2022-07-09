@@ -103,7 +103,7 @@ const Video = () => {
             allowfullscreen
           ></iframe>
         </VideoWrapper>
-        <Title>Test Video</Title>
+        <Title>Never Gonna Give You Up</Title>
         <Details>
           <Info>1,244,466,721 views • Oct 25, 2009</Info>
           <Buttons>
@@ -127,7 +127,7 @@ const Video = () => {
             <Image src="https://yt3.ggpht.com/BbWaWU-qyR5nfxxXclxsI8zepppYL5x1agIPGfRdXFm5fPEewDsRRWg4x6P6fdKNhj84GoUpUI4=s88-c-k-c0x00ffffff-no-rj" />
             <ChannelDetail>
               <ChannelName>Rick Astley</ChannelName>
-              <ChannelCounter>324 subscribers</ChannelCounter>
+              <ChannelCounter>666 subscribers</ChannelCounter>
               <Description>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Doloribus laborum delectus unde quaerat dolore culpa sit aliquam

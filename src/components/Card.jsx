@@ -67,7 +67,7 @@ const Card = ({ type }) => {
           <Texts>
             <Title>Never Gonna Give You Up</Title>
             <ChannelName>Rick Astley</ChannelName>
-            <Info>666,666 views • 1 day ago</Info>
+            <Info>1,244,466,721 views • Oct 25, 2009</Info>
           </Texts>
         </Details>
       </Container>
